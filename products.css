@@ -1,0 +1,59 @@
+.title {
+    margin-top: 2%;
+    font-size: larger;
+    margin-left: 20%;
+    color: white;
+}
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(Background.jpg); background-size: 100% 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.halal{
+    font-size: 250%;
+    margin: auto;
+    margin-top: 5%;
+    max-width: 600px;
+    color: white;
+    
+
+}
+
+div{
+    font-size: 150%;
+    margin: auto;
+    max-width: 600px;
+    color: white;
+}
+
+.good{
+    border: 0,5px solid green;
+    border-radius: 0.15em;
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 2rem;
+    position:relative; 
+    left:33.75%; 
+    
+}
+
+.good:hover{
+    color: #7CFC00;
+}
+
+.nickga{
+    border: 0,5px solid rgb(28, 0, 128);
+    border-radius: 0.15em;
+    background-color: rgb(0, 87, 128);
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 2rem;
+    position:relative; 
+    left:33.75%; 
+}
