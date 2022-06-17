@@ -1,0 +1,50 @@
+#top {
+
+    text-align: center;
+}
+
+#logo {
+    color: red;
+    font-size: 90px;
+    font-weight: bold;
+    
+    
+}
+#logo-name {
+    color: white;
+    font-size: 40px;
+    
+}
+#links a{
+    color: rgb(102, 255, 0);
+    padding: 10px;
+    text-decoration: none;
+}
+
+#links a:hover {
+
+    color: red;
+    
+}
+
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(Background.jpg); background-size: 100% 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#main  {
+    margin: auto;
+    max-width: 600px;
+    color: white;
+    
+
+}
+
+
+
+
+
